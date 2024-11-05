@@ -72,7 +72,7 @@
                         <li>Administrador de Bancos de Dados</li>
                         <li>Power BI e Python</li>
                         <li>LGPD</li>
-                        <li>Dev Low Code</li>
+                        <li>Transformação Digitale</li>
                     </ul>
                 </div>
             </div>
