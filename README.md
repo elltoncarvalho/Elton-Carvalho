@@ -1,0 +1,1 @@
+Sou Elton Carlos Carvalho dos Santos, especialista em suporte técnico e infraestrutura de TI, com sólida experiência em atendimento ao cliente, gestão de tickets e suporte a sistemas operacionais Windows, Linux e MacOS. Estou cursando Análise e Desenvolvimento de Sistemas e busco crescer na área de tecnologia, aplicando meu conhecimento em sons sonoros e solicitados. 
