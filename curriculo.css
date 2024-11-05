@@ -1,0 +1,134 @@
+/* Estilos Gerais */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 80%;
+    max-width: 1000px;
+    display: flex;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(13, 117, 15, 0.1);
+    border-radius: 8px;
+}
+
+/* Barra Lateral */
+.sidebar {
+    width: 250px;
+    padding: 20px;
+    background-color: rgb(15, 168, 15);
+    color: #fff;
+    border-radius: 8px 0 0 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.contact-info {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+    padding: 0px;
+    margin-top: 0px;
+    width: 100%;
+    border: 2px solid transparent;
+    /*background-image: linear-gradient(#f0e9ed, #3075ba), radial-gradient(circle at top left, #0073e6, #2aa124);
+    background-origin: border-box;
+    background-clip: padding-box, border-box;*/
+    box-shadow: 0 4px 8px rgba(17, 151, 13, 0.1);
+    color: #f0f4f8;
+    font-style: bold;
+    text-align:left;
+    font-size: 17px;
+}
+.sidebar img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    font-style: normal;
+    border: 3px solid #f1eef1;
+}
+.sidebar p {
+    font-size: 0.9em;
+    margin: 8px 0;
+}
+.sidebar strong {
+    font-weight: bold;
+}
+
+/* Área de Conteúdo */
+.content {
+    flex-grow: 1;
+    padding: 20px 40px;
+}
+h1 {
+    font-size: 2em;
+    color: #24c724;
+}
+
+/* Seções */
+.section {
+    margin-bottom: 20px;
+}
+.section h2 {
+    background-color: #24c724;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.2em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: background 0.3s;
+    border-radius: 5px;
+}
+.section h2:hover {
+    background-color: #005bb5;
+}
+.section h2 i {
+    margin-left: 10px;
+    transition: transform 0.3s;
+}
+.section-content {
+    display: none;
+    padding: 10px 20px;
+    animation: fadeIn 0.5s ease;
+    border-left: 4px solid #0073e6;
+    background-color: #f9f9f9;
+    border-radius: 0 5px 5px 5px;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Ícones e Listas */
+ul {
+    padding-left: 20px;
+    list-style: none;
+}
+ul li::before {
+    content: "\2022";
+    color: #0073e6;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+.skills li {
+    background-color: #e6f3ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 10px 5px 0;
+    font-size: 0.9em;
+}
