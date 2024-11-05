@@ -66,7 +66,7 @@
                     <p>Configuração e reparo de Windows, configuração de sites, criação de novos
                         usuários e reset de senha utilizando banco de dados e Active Directory.</p>
                     <h3>CTC TECH (maio de 2024 até o momento)</h3>
-                    <p><strong>CArgo:</strong> Analista de suporte</p>
+                    <p><strong>Cargo:</strong> Analista de suporte</p>
                     <p>Especializado em responder a incidentes e solicitações, corrigir problemas
                         técnicos e monitorar sistemas por meio de plataformas de tickets. Proficiente na
                         configuração, ajuste e otimização de sistemas, programas e dispositivos de
