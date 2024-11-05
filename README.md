@@ -52,6 +52,26 @@
                     <h3>HOSPITAL OFTALMOLÓGICO DE BRASÍLIA (agosto de 2019 a março de 2022)</h3>
                     <p><strong>Cargo:</strong> Operador de Telemarketing</p>
                     <p>Agendamento e confirmação de consultas e exames.</p>
+                     <h3>BLUEFIT ACADEMIA (agosto de 2021 a junho de 2024)</h3>
+                    <p><strong>Cargo:</strong> Consultor de vendas</p>
+                    <p>Cadastro de novos alunos, apresentação da academia aos visitantes,
+                       igações para cobrança de alunos inadimplentes.</p>
+                    <h3>SISTEMA FIBRA (SENAI SESI IEL) (junho de 2022 a março de 2023)</h3>
+                    <p><strong>Cargo:</strong> Assistente de Atendimento (Ouvidoria Sac)</p>
+                    <p>Prestar atendimento aos alunos para esclarecer dúvidas sobre cursos e
+                        matrículas, bem como fornecer assistência aos cidadãos em relação à Lei de Acesso à
+                        Informação</p>
+                    <h3>CENTRAL IT (março de 2023 a setembro de 2023)</h3>
+                    <p><strong>Cargo:</strong> Suporte técnico Remoto</p>
+                    <p>Configuração e reparo de Windows, configuração de sites, criação de novos
+                        usuários e reset de senha utilizando banco de dados e Active Directory.</p>
+                    <h3>CTC TECH (maio de 2024 até o momento)</h3>
+                    <p><strong>CArgo:</strong> Analista de suporte</p>
+                    <p>Especializado em responder a incidentes e solicitações, corrigir problemas
+                        técnicos e monitorar sistemas por meio de plataformas de tickets. Proficiente na
+                        configuração, ajuste e otimização de sistemas, programas e dispositivos de
+                        computador, com foco na resolução de problemas e manutenção de desempenho de
+                        redes e sistemas para garantir o funcionamento eficiente</p>
                 </div>
             </div>
 
